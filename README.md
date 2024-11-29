@@ -2,11 +2,11 @@
 
 | 名称 | 内核 | 平台 | 状态 |
 |---|---|---|---|
-| [**Clash for Windows**](https://github.com/Fndroid/clash_for_windows_pkg) | Clash Premium | Windows, macOS, Linux | 停止维护 |
+| [**Clash for Windows**](https://github.com/Fndroid/clash_for_windows_pkg) | Clash Premium | Windows, macOS, Linux | 💔停止维护 |
 | [**Clash Nyanpasu**](https://github.com/libnyanpasu/clash-nyanpasu) | Mihomo | Windows, macOS, Linux | 维护中 |
-| [**Clash Verge**](https://github.com/zzzgydi/clash-verge) | Clash, Clash Mate | Windows, macOS, Linux | 停止维护 |
+| [**Clash Verge**](https://github.com/zzzgydi/clash-verge) | Clash, Clash Mate | Windows, macOS, Linux | 💔停止维护 |
 | [**Clash Verge Rev**](https://github.com/clash-verge-rev/clash-verge-rev) | Mihomo | Windows, macOS, Linux | 维护中 |
-| [**ClashForAndroid**](https://github.com/Kr328/ClashForAndroid) | Clash | Android | 停止维护 |
+| [**ClashForAndroid**](https://github.com/Kr328/ClashForAndroid) | Clash | Android | 💔停止维护 |
 | [**ClashMetaForAndroid**](https://github.com/MetaCubeX/ClashMetaForAndroid) | Mihomo | Android | 维护中 |
 | [**ClashX.Meta**](https://github.com/MetaCubeX/ClashX.Meta) | Mihomo | macOS | 维护中 |
 | [**FlClash**](https://github.com/chen08209/FlClash) | Mihomo | Windows, macOS, Linux, Android | 维护中 |
