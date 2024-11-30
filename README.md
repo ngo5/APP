@@ -39,7 +39,7 @@
 | [**V2rayN**](https://github.com/2dust/v2rayn) | V2ray, Mihomo, Sing Box | Windows, Linux | 维护中 |
 | [**Nekoray**](https://github.com/MatsuriDayo/nekoray) | Sing Box | Windows | 维护中 |
 | [**NekoBox**](https://github.com/MatsuriDayo/NekoBoxForAndroid) | Sing Box | Android | 维护中 |
-| [**Hiddify**](https://github.com/hiddify/hiddify-app) | Sing Box | Windows, macOS, Linux, Android | 维护中 |
+| [**Hiddify**](https://github.com/hiddify/hiddify-app) | Sing Box | Windows, macOS, Linux, Android, iOS | 维护中 |
 
 [Clash Verge Rev友情链接](https://www.clashverge.dev/friendship.html)
 
