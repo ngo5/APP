@@ -14,6 +14,8 @@
 
 - 找机场可以去有悬赏或问答区的论坛求助别人用得最久的是哪个
 
+新入门科学上网看这个系列教程：[「硬核翻墙/科学上网」系列](https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)
+
 # 代理客户端
 
 | 名称 | 内核 | 平台 | 状态 |
