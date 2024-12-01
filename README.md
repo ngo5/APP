@@ -18,6 +18,9 @@
 
 新入门科学上网看这个系列教程：[「硬核翻墙/科学上网」系列 - YouTube@AkilaZhang](https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)
 
+高端机场，价格非常贵：[Nexitally](https://www.nexitally.com/)、[Kuromis](https://www.kuromis.com/)、[WgetCloud](https://wgetcloud.org/)
+
+[关于机场的一些选择 - DuyaoSS](https://www.duyaoss.com/archives/2934/)
 # 代理客户端
 
 | 名称 | 内核 | 平台 | 状态 |
