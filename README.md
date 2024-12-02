@@ -53,3 +53,10 @@
 [Clash Verge Rev友情链接](https://www.clashverge.dev/friendship.html)
 
 [Mihomo三方工具/客户端](https://wiki.metacubex.one/startup/client/client/)
+
+内核/协议
+[Hysteria](https://github.com/apernet/hysteria)
+[Xray-core](https://github.com/XTLS/Xray-core)
+[V2ray-core](https://github.com/v2fly/v2ray-core)
+[Mihomo](https://github.com/MetaCubeX/mihomo)
+[Sing-Box](https://github.com/SagerNet/sing-box)
