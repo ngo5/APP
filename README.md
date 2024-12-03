@@ -16,7 +16,15 @@
 
 - 不要在不发达城市翻墙且盈利，当地可能因为没钱抓你当业绩
 
-新入门科学上网看这个系列教程：[「硬核翻墙/科学上网」系列 - YouTube@AkilaZhang](https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)
+新入门科学上网看这个系列教程：
+
+[「硬核翻墙/科学上网」系列 - YouTube@AkilaZhang](https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)
+
+[没有软路由怎么让全家科学上网 - YouTube@bulianglin](https://www.youtube.com/watch?v=GjhetHGIKLg)
+
+[clash/v2ray/singbox 虚拟网卡怎么接管系统全局流量 - YouTube@bulianglin](https://www.youtube.com/watch?v=qItL005LUik)
+
+[新手小白机场科普教程 - YouTube@bulianglin](https://www.youtube.com/watch?v=JuoXrqAest8)
 
 高端机场，价格非常贵：[Nexitally](https://www.nexitally.com/)、[Kuromis](https://www.kuromis.com/)、[WgetCloud](https://wgetcloud.org/)
 
