@@ -45,6 +45,7 @@
 | [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) | Sing Box | Windows, Linux | 维护中 |
 | [Karing](https://github.com/KaringX/karing) | Sing Box | Windows, Android | 维护中 |
 | [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party) | Mihomo | Windows, macOS, Linux | 👍维护中 |
+| [Mihomo Party](https://github.com/xishang0128/mihomo-party)汐殇 | Mihomo | Windows, macOS, Linux | 👍维护中 |
 | [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) | null | macOS, iOS | 维护中 |
 | [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | null | macOS, iOS | 维护中 |
 | [Sing Box](https://github.com/SagerNet/sing-box) | Sing Box | Android,iOS | 维护中 |
