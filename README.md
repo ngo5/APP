@@ -31,6 +31,7 @@
 
 | 名称 | 内核 | 平台 | 状态 |
 |---|---|---|---|
+| [ClashMi](https://github.com/KaringX/clashmi) | Mihomo | 📱iOS, 📱Android | 维护中 |
 | ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)~~ | Clash Premium | Windows, macOS, Linux | 停止维护 |
 | [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | Mihomo, Clash Premium, Clash Rust | Windows, macOS, Linux | 维护中 |
 | ~~[Clash Verge](https://github.com/zzzgydi/clash-verge)~~ | Clash Premium, Clash Mate | Windows, macOS, Linux | 停止维护 |
