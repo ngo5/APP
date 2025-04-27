@@ -36,7 +36,7 @@
 | [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | Mihomo, Clash Premium, Clash Rust | Windows, macOS, Linux | 维护中 |
 | ~~[Clash Verge](https://github.com/zzzgydi/clash-verge)~~ | Clash Premium, Clash Mate | Windows, macOS, Linux | 停止维护 |
 | [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) | Mihomo | Windows, macOS, Linux | 👍维护中 |
-| ~~[ClashForAndroid](https://github.com/Kr328/ClashForAndroid)~~ | Clash Premium | Android | 停止维护 |
+| ~~[ClashForAndroid](https://github.com/Kr328/ClashForAndroid)~~ | Clash Premium | 📱Android | 停止维护 |
 | [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | Mihomo | 📱Android | 👍维护中 |
 | ~~[ClashX](https://github.com/yichengchen/clashX)~~ | Clash Premium | macOS | 停止维护 |
 | [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) | Mihomo | macOS | 维护中 |
