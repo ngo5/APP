@@ -34,7 +34,7 @@
 |---|---|---|---|
 | ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)~~ | Clash Premium | Windows, macOS, Linux | 停止维护 |
 | [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | Mihomo, Clash Premium, Clash Rust | Windows, macOS, Linux | 维护中 |
-| ~~[Clash Verge](https://github.com/zzzgydi/clash-verge)~~ | Clash Premium, Clash Mate | ![](https://www.clashverge.dev/assets/icons/microsoft.svg) Windows, macOS, Linux | 停止维护 |
+| ~~[Clash Verge](https://github.com/zzzgydi/clash-verge)~~ | Clash Premium, Clash Mate | ![](https://www.clashverge.dev/assets/icons/microsoft.svg) ![](https://www.clashverge.dev/assets/icons/linux.svg) ![](https://www.clashverge.dev/assets/icons/macos.svg)   | 停止维护 |
 | [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) | Mihomo | Windows, macOS, Linux | 👍维护中 |
 | ~~[ClashForAndroid](https://github.com/Kr328/ClashForAndroid)~~ | Clash Premium | Android | 停止维护 |
 | [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | Mihomo | Android | 👍维护中 |
