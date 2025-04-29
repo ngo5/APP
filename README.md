@@ -35,7 +35,7 @@
 | ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)~~ | Clash Premium | Windows, macOS, Linux | 停止维护 |
 | [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | Mihomo, Clash Premium, Clash Rust | Windows, macOS, Linux | 维护中 |
 | ~~[Clash Verge](https://github.com/zzzgydi/clash-verge)~~ | Clash Premium, Clash Mate | Windows, macOS, Linux | 停止维护 |
-| [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) | Mihomo | Windows, macOS, Linux | 👍维护中 |
+| [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) | Mihomo | Windows, macOS, Linux | 维护中 |
 | ~~[ClashForAndroid](https://github.com/Kr328/ClashForAndroid)~~ | Clash Premium | 📱Android | 停止维护 |
 | [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | Mihomo | 📱Android | 👍维护中 |
 | ~~[ClashX](https://github.com/yichengchen/clashX)~~ | Clash Premium | macOS | 停止维护 |
@@ -52,8 +52,8 @@
 | [Surfboard](https://github.com/getsurfboard/surfboard) | null | 📱Android | 维护中 |
 | [Surge 5](https://apps.apple.com/us/app/surge-5/id1442620678) | null | macOS, iOS | 维护中 |
 | [V2rayA](https://github.com/v2rayA/v2rayA) | V2ray | Windows, macOS, Linux | 维护中 |
-| [V2rayN](https://github.com/2dust/v2rayn) | Xray, V2ray, Mihomo, Sing Box | Windows, Linux | 👍维护中 |
-| [V2rayNG](https://github.com/2dust/v2rayNG) | Xray, V2ray | 📱Android | 👍维护中 |
+| [V2rayN](https://github.com/2dust/v2rayn) | Xray, V2ray, Mihomo, Sing Box | Windows, Linux | 维护中 |
+| [V2rayNG](https://github.com/2dust/v2rayNG) | Xray, V2ray | 📱Android | 维护中 |
 | [V2rayU](https://github.com/yanue/V2rayU) | V2ray | macOS | 维护中 |
 | ~~[V2RayW](https://github.com/Cenmrev/V2RayW)~~ | V2ray | Windows | 停止维护 |
 | ~~[V2RayX](https://github.com/Cenmrev/V2RayX)~~ | V2ray | macOS | 停止维护 |
