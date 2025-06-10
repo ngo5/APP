@@ -41,7 +41,7 @@
 | ~~[ClashX](https://github.com/yichengchen/clashX)~~ | Clash Premium | macOS | 停止维护 |
 | [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) | Mihomo | macOS | 维护中 |
 | [FlClash](https://github.com/chen08209/FlClash) | Mihomo | Windows, macOS, Linux, 📱Android | 👍维护中 |
-| [FlyClash](https://github.com/GtxFury/FlyClash) | Mihomo | Windows, macOS, Linux, 📱Android | 维护中 |
+| [FlyClash](https://github.com/GtxFury/FlyClash) | Mihomo | Windows, macOS, Linux, 📱[Android](https://github.com/GtxFury/FlyClash-Android) | 维护中 |
 | [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) | Mihomo | Windows, Linux | 维护中 |
 | [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) | Sing Box | Windows, Linux | 维护中 |
 | [Karing](https://github.com/KaringX/karing) | Sing Box | Windows, 📱Android | 维护中 |
@@ -69,10 +69,12 @@
 
 [Mihomo三方工具/客户端](https://wiki.metacubex.one/startup/client/client/)
 
-内核/协议
-[Hysteria](https://github.com/apernet/hysteria)
-[Xray-core](https://github.com/XTLS/Xray-core)
-[V2ray-core](https://github.com/v2fly/v2ray-core)
-[Mihomo](https://github.com/MetaCubeX/mihomo)
-[Sing-Box](https://github.com/SagerNet/sing-box)
-[ClashRS](https://github.com/Watfaq/clash-rs)
+内核：
+- [Xray-core](https://github.com/XTLS/Xray-core)
+- [V2ray-core](https://github.com/v2fly/v2ray-core)
+- [Mihomo](https://github.com/MetaCubeX/mihomo)
+- [Sing-Box](https://github.com/SagerNet/sing-box)
+- [ClashRS](https://github.com/Watfaq/clash-rs)
+
+协议：
+- [Hysteria](https://github.com/apernet/hysteria)
