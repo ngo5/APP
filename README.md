@@ -69,6 +69,7 @@
 
 [Mihomo三方工具/客户端](https://wiki.metacubex.one/startup/client/client/)
 
+[科学上网软件App客户端](https://t.me/tgcnz/886)
 内核：
 - [Xray-core](https://github.com/XTLS/Xray-core)
 - [V2ray-core](https://github.com/v2fly/v2ray-core)
