@@ -58,6 +58,7 @@
 | [V2rayU](https://github.com/yanue/V2rayU) | V2ray | macOS | 维护中 |
 | ~~[V2RayW](https://github.com/Cenmrev/V2RayW)~~ | V2ray | Windows | 停止维护 |
 | ~~[V2RayX](https://github.com/Cenmrev/V2RayX)~~ | V2ray | macOS | 停止维护 |
+| [Vproxy](https://github.com/5vnetwork/vproxy) | Xray | Windows, macOS, iOS, Android | 维护中 |
 | ~~[Nekoray](https://github.com/MatsuriDayo/nekoray)~~ | Sing Box | Windows | 停止维护 |
 | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) | Sing Box | 📱Android | 维护中 |
 | [Hiddify](https://github.com/hiddify/hiddify-app) | Sing Box | Windows, macOS, Linux, 📱Android, 📱iOS | 维护中 |
