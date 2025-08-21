@@ -61,7 +61,7 @@
 | [Vproxy](https://github.com/5vnetwork/vproxy) | Xray | Windows, macOS, iOS, Android | 维护中 |
 | ~~[Nekoray](https://github.com/MatsuriDayo/nekoray)~~ | Sing Box | Windows | 停止维护 |
 | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) | Sing Box | 📱Android | 维护中 |
-| [Hiddify](https://github.com/hiddify/hiddify-app) | Sing Box | Windows, macOS, Linux, 📱Android, 📱iOS | 维护中 |
+| ~~[Hiddify](https://github.com/hiddify/hiddify-app)~~ | Sing Box | Windows, macOS, Linux, 📱Android, 📱iOS | 停止维护 |
 | [Loon](https://apps.apple.com/us/app/loon/id1373567447) | null | macOS, 📱iOS | 维护中 |
 | ~~[Qv2ray](https://github.com/Qv2ray/Qv2ray)~~ | V2Ray | Windows, macOS, Linux | 停止维护 |
 | [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | null | macOS, 📱iOS | 维护中 |
