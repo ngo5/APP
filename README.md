@@ -32,6 +32,7 @@
 | 名称 | 内核 | 平台 | 状态 |
 |---|---|---|---|
 | [ClashMi](https://github.com/KaringX/clashmi) | Mihomo | Windows, macOS, Linux, 📱iOS, 📱Android | 维护中 |
+| [Clash Party](https://github.com/mihomo-party-org/clash-party) | Mihomo | Windows, macOS, Linux | 维护中 |
 | ~~[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)~~ | Clash Premium | Windows, macOS, Linux | 停止维护 |
 | [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | Mihomo, Clash Premium, Clash Rust | Windows, macOS, Linux | 维护中 |
 | ~~[Clash Verge](https://github.com/zzzgydi/clash-verge)~~ | Clash Premium, Clash Mate | Windows, macOS, Linux | 停止维护 |
@@ -45,7 +46,7 @@
 | [GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) | Mihomo | Windows, Linux | 维护中 |
 | [GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) | Sing Box | Windows, Linux | 维护中 |
 | [Karing](https://github.com/KaringX/karing) | Sing Box | Windows, 📱Android | 维护中 |
-| [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party) | Mihomo | Windows, macOS, Linux | 维护中 |
+| [OneBox](https://github.com/OneOhCloud/OneBox) | Sing Box | Windows, macOS, Linux | 维护中 |
 | [Sparkle](https://github.com/xishang0128/clash-meta-party) | Mihomo | Windows, macOS, Linux | 👍维护中 |
 | [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) | null | macOS, 📱iOS | 维护中 |
 | [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | null | macOS, 📱iOS | 👍维护中 |
