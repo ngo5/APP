@@ -38,6 +38,7 @@
 | ~~[Clash Verge](https://github.com/zzzgydi/clash-verge)~~ | Clash Premium, Clash Mate | Windows, macOS, Linux | 停止维护 |
 | [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) | Mihomo | Windows, macOS, Linux | 维护中 |
 | ~~[ClashForAndroid](https://github.com/Kr328/ClashForAndroid)~~ | Clash Premium | 📱Android | 停止维护 |
+| [ClashMac](https://github.com/666OS/ClashMac) | Mihomo | macOS | 维护中 |
 | [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | Mihomo | 📱Android | 👍维护中 |
 | ~~[ClashX](https://github.com/yichengchen/clashX)~~ | Clash Premium | macOS | 停止维护 |
 | [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) | Mihomo | macOS | 维护中 |
@@ -66,6 +67,7 @@
 | [Loon](https://apps.apple.com/us/app/loon/id1373567447) | null | macOS, 📱iOS | 维护中 |
 | ~~[Qv2ray](https://github.com/Qv2ray/Qv2ray)~~ | V2Ray | Windows, macOS, Linux | 停止维护 |
 | [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | null | macOS, 📱iOS | 维护中 |
+| [YumeBox](https://github.com/YumeLira/YumeBox) | Mihomo | 📱Android | 维护中 |
 
 [Clash Verge Rev友情链接](https://www.clashverge.dev/friendship.html)
 
